@@ -1,0 +1,84 @@
+
+.regp{
+  margin-bottom: 50px;
+  font-size: larger;
+  color: gray;
+  text-align: left;
+}
+.alleft{
+  text-align: left;
+}
+.regdiv{
+  margin-top: 30vh;
+  padding: 20px;
+}
+.regbtn{
+  width: 100%;
+  background-color:#FF6D6A;
+  font-size: larger;
+  padding: 20px;
+  border: 0;
+  border-radius: 8px;
+  color: white;
+}
+.backbtn{
+  width: 72px;
+  height: 72px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgb(206, 206, 206);
+  margin-bottom: 25vh;
+
+}
+.otpdiv{
+  padding: 20px;
+}
+.preh{
+  color: rgb(147, 147, 147);
+  margin-bottom: -10px;
+}
+.preb{
+  color: rgb(72, 72, 72);
+}
+.hrline{
+  width: 100%;
+  border: 1px solid gray;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+.btni{
+  width: 70px;
+  height: 70px;
+  border-radius: 15px;
+  color: white;
+  border: 0;
+  margin-top: 20px;
+}
+.percentbtn{
+  background-image: linear-gradient(to right,#ff918f, #ff5b58);
+}
+.walletbtn{
+  background-image: linear-gradient(to right, rgb(132, 132, 255) , blue);
+}
+.flexbtn{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.cardflex{
+  display: flex;
+  gap: 5%;
+}
+.carocard{
+  width: 35%;
+  border-radius: 10px;
+  background-color: #ff9b99;
+  font-weight: bold;
+  padding: 5px;
+}
+.carocard img{
+  width: 100%;
+  border-radius: 10px;
+}
+.carouseldiv{
+  margin-top: 5vh;
+}
